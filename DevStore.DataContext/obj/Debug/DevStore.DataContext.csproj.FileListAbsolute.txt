@@ -1,0 +1,12 @@
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\bin\Debug\DevStore.DataContext.dll.config
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\bin\Debug\DevStore.DataContext.dll
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\bin\Debug\DevStore.DataContext.pdb
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\bin\Debug\DevStore.Domain.dll
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\bin\Debug\EntityFramework.dll
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\bin\Debug\DevStore.Domain.pdb
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\bin\Debug\EntityFramework.xml
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\obj\Debug\DevStore.DataContext.csprojResolveAssemblyReference.cache
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\obj\Debug\DevStore.DataContext.dll
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.DataContext\obj\Debug\DevStore.DataContext.pdb

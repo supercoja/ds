@@ -1,0 +1,4 @@
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+C:\Users\Milladm03\Dropbox\c#\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
